@@ -1,6 +1,6 @@
 # Microservicios
 
-![Node JS 14.17.1 LTS](https://img.shields.io/badge/Node-js-lts-lightgrey?style=for-the-badge)
+![Node](https://img.shields.io/badge/Node-lightgrey?style=for-the-badge)
 ![Javascript](https://img.shields.io/badge/javascript-blue?style=for-the-badge)
 ![Express](https://img.shields.io/badge/Express-blue?style=for-the-badge)
 
